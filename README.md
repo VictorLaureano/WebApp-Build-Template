@@ -1,7 +1,7 @@
 # WebApp-Build-Template
 Template for Building Web Applications
 
-#This template includes: 
+# This template includes: 
   - File distribution 
   - Docker container setup
   - Endpoints Setup 
